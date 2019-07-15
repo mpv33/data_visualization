@@ -1,2 +1,4 @@
 # data_visualization
-data analysis  and visualization basic notes 
+# data analysis basic notes  
+# data visualization basic notes 
+# machine learning for basic requirment 
